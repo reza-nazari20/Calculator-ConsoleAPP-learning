@@ -1,0 +1,7 @@
+E:\Project\Start\Start\bin\Debug\Start.exe.config
+E:\Project\Start\Start\bin\Debug\Start.exe
+E:\Project\Start\Start\bin\Debug\Start.pdb
+E:\Project\Start\Start\obj\Debug\Start.csproj.AssemblyReference.cache
+E:\Project\Start\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+E:\Project\Start\Start\obj\Debug\Start.exe
+E:\Project\Start\Start\obj\Debug\Start.pdb
